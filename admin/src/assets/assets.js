@@ -12,6 +12,9 @@ import appointments_icon from './appointments_icon.svg'
 import earning_icon from './earning_icon.svg'
 import patients_icon from './patients_icon.svg'
 
+export const url =https://doctor-appointment-booking-app-bkk1.onrender.com
+export const currency ='₹'
+
 export const assets = {
     add_icon,
     admin_logo,
